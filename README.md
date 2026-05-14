@@ -21,4 +21,4 @@
 - 待接入：MiMo API（等待Token到账）
 
 ## 参与小米MiMo Orbit计划
-申请邮箱：[2295178533@qq.com]
+申请邮箱：[nnxbphv@gmail.com]
